@@ -1,10 +1,10 @@
 {
   "timeZone": "Asia/Dhaka",
-  "prefix": "!",
+  "prefix": ".",
   "language": "en",
   "api": "http://65.109.80.126:20409/aryan",
   "baby": "https://nix-baby-apis.vercel.app",
-  "nickNameBot": "Goat-Bot-V2",
+  "nickNameBot": "অপরিচিতা",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -47,13 +47,13 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100001611578438"
+    "61567090538427"
   ],
   "developer": [
-    "100001611578438"
+    "61567090538427"
   ],
   "vipuser": [
-    "100001611578438"
+    "61567090538427"
   ], 
   "whiteListMode": {
     "enable": false,
